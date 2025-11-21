@@ -1,0 +1,31 @@
+body {
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal; 
+    }
+    
+
+    .hero-text {
+        text-align: center;
+        color: lightgoldenrodyellow
+    }
+    
+    .hero-image {
+        background-image: url(texture2.jpg);
+        height: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+    }
+
+    .container {
+        border: 1px solid plum;
+        box-shadow: -8px 5px 9px 1px #ac8688;
+        padding: auto;
+    }
+
+   
+
+    
